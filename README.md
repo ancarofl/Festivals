@@ -1,4 +1,4 @@
-# festival-repo
+# Festivals
 
 At the moment the goal is to put together a list of all active (has an up to date website containing information pertaining to an upcoming edition) music festivals, sorted by country.
 
@@ -12,7 +12,7 @@ The next step after the list will be more comprehensive will be to add genres (n
 
 ##  ##
 
-**Total festival #**: 238
+**Total festivals #**: 238
 
 ### Australia ###
 Festival  | Website
